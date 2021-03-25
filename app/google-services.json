@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243405272217",
+    "project_id": "app-primaty-work",
+    "storage_bucket": "app-primaty-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243405272217:android:35730b47de4de50bb93408",
+        "android_client_info": {
+          "package_name": "com.example.app_primary_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243405272217-lgibrpkd58a2gfvm5kj5a550puqtln36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZXZ7mg3J4PLoEtboKyAbYjTeijF_cdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243405272217-lgibrpkd58a2gfvm5kj5a550puqtln36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

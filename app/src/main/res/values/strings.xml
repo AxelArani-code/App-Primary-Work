@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App-Primary-Work</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home">San Rafael</string>
+    <string name="subTitle">Favorites</string>
+    <string name="See">See all</string>
+
+
+    <string name="Chat">Chat Fragment</string>
+    <string name="Explore">Explore Fragment</string>
+    <string name="Notification">Notification Fragment</string>
+    <string name="User">User Fragment</string>
+
+
+</resources>
